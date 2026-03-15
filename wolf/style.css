@@ -1,0 +1,170 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+.ht{
+  position: absolute;
+  left: 680px;
+  top: 100px;
+}
+
+.ft1{
+  padding: 30px;
+  position: absolute;
+  left: 260px;
+  top: 30px;
+}
+
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+}
+
+.ft2{
+  z-index: -1;
+  position: absolute;
+  top: -10px;
+  left: -33px;
+}
+
+.ex{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  color: gray;
+  font-weight: bold;
+  position: absolute;
+  left: 330px;
+  top: 500px;
+}
+
+.Ds{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: gray;
+  position: absolute;
+  top: 510px;
+  left: 670px;
+}
+
+.conteiner{
+  display: flex;
+  justify-content: space-between;
+  background-color: gainsboro;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px 30px;
+  gap: 30px;
+  width: 700px;
+  position: absolute;
+  top: 700px;
+  left: 670px;
+}
+
+.ct{
+  justify-content: column;
+  gap: 40px;
+}
+
+.et{
+  color: black;
+}
+
+.ct2 span{
+  height: 10px;
+  gap: 3px;
+  padding: 2px 5px;
+  background-color: ghostwhite;
+}
+
+.conteiner2{
+  display: flex;
+  justify-content: space-between;
+  background-color: gainsboro;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px 30px;
+  gap: 30px;
+  width: 700px;
+  position: absolute;
+  top: 850px;
+  left: 670px;
+}
+
+.ct3{
+  gap: 40px;
+}
+
+.t{
+  color: black;
+}
+
+.ct4 span{
+  height: 10px;
+  gap: 3px;
+  padding: 2px 5px;
+  background-color: ghostwhite;
+}
+
+
+.conteiner3{
+  display: flex;
+  justify-content: space-between;
+  background-color: gainsboro;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px 30px;
+  gap: 30px;
+  width: 700px;
+  position: absolute;
+  top: 1000px;
+  left: 670px;
+}
+
+.dt3{
+  gap: 40px;
+}
+
+.te{
+  color: black;
+}
+
+.dt4 span{
+  height: 10px;
+  gap: 3px;
+  padding: 2px 5px;
+  background-color: ghostwhite;
+}
+
+footer{
+  background-color: black;
+  padding: 10px 20px;
+  position: relative;
+  top: 1200px;
+}
+
+.d{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
